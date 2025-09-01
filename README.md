@@ -7,7 +7,7 @@ This project covers the full process: **data cleaning → data transformation �
 
 ## 📊 Dashboard Preview
 
-![Dashboard](img/dashboard.PNG)
+![Main_Dashboard](img/Main_Dashboard.PNG)
 
 ---
 
